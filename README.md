@@ -39,3 +39,5 @@ You're free to use, modify, and learn from it — just give credit 🌟
 ### 🔗 Follow My Journey
 
 Stay tuned — I'm uploading new projects regularly as I continue learning and building!
+⭐ If you find this code helpful, feel free to star the repo or fork it!
+
